@@ -1,2 +1,2 @@
-`<start_es><end_es>`
+`<start_es>Proyecto desarrollado en VB.NET. Requiere ejecutarse como administrador por su interacción con Access. Incluye un botón para mostrar contraseñas internas. Probado en Windows 10, 7 y equipos Exo. Nota: Puede haber un ligero retraso al inicio del programa debido a la protección del ejecutable. <end_es>`
 `<start_en>Project developed in VB.NET. It must be run as an administrator due to its interaction with Access. Includes a button to display internal passwords. Tested on Windows 10, Windows 7, and Exo devices. Note: There may be a slight delay during startup due to executable protection.<end_en>`
